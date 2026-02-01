@@ -34,12 +34,17 @@ It focuses on **clarity, stability, and correctness** — going beyond basic CRU
 
 ![Login with inline feedback](./screenshots/user-login.png)
 
+..................................................................................................
+
 ### 📝 Registration (Admin & User)
 
 **Unified registration flow with role-aware logic, real-time inline validation , image validation,  toast and feedback**
 
 ![Registration with inline feedback](./screenshots/registration-inline-errors.png)
 ![Registration with unsupported image error](./screenshots/resgistration-img-big.png)
+
+..................................................................................................
+
 
 ### 📊 Admin Dashboard
 
@@ -48,7 +53,7 @@ It focuses on **clarity, stability, and correctness** — going beyond basic CRU
 ![Dashboard](./screenshots/dashboard.png)
 ![Dashboard](./screenshots/sort-users.png)
 
----
+..................................................................................................
 
 ### ➕ Add / Edit User
 
@@ -57,7 +62,7 @@ It focuses on **clarity, stability, and correctness** — going beyond basic CRU
 ![add user with inline feedbacks](./screenshots/new-user-inline-errors.png)
 ![edit user with inline feedbacks with loading state](./screenshots/edit-user.png)
 
----
+..................................................................................................
 
 ### 🔍 Search & Delete with toast (AJAX)
 
@@ -67,7 +72,8 @@ It focuses on **clarity, stability, and correctness** — going beyond basic CRU
 ![Delete user](./screenshots/dashboard-delete-user.png)
 ![Delete user success toast](./screenshots/delete-user-toast.png)
 
----
+..................................................................................................
+
 
 ### 🚫 404 — Page Not Found and 500 — Something Went Wrong
 
@@ -75,11 +81,12 @@ It focuses on **clarity, stability, and correctness** — going beyond basic CRU
 
 ![Search user](./screenshots/404Error.png)
 
----
+..................................................................................................
+
 
 ### 🪩 Toast (Example used- user's home page)
 
-**Custom-built feedback system (success, error,)**
+**Custom-built feedback system (success and error)**
 
 ![Toast](./screenshots/user-home.png)
 
