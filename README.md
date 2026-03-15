@@ -20,7 +20,7 @@ It focuses on **clarity, stability, and correctness** — going beyond basic CRU
 
 ---
 
-## 🔗 Live Demo
+## 🔗 Live Web Application
 
 * [https://cortex-eij0.onrender.com](https://cortex-eij0.onrender.com)
 
