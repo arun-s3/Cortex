@@ -1,4 +1,4 @@
-# Cortex — A Production-Inspired Admin User Management System
+# Cortex — A Production-Inspired Admin & User Management System
 
 Cortex is a **full-stack, admin-driven user management application** built to reflect how real internal dashboards are designed: secure authentication, middleware pipelines, controlled file uploads, instant feedback, and predictable UI behavior under real conditions.
 
@@ -45,7 +45,6 @@ It focuses on **clarity, stability, and correctness** — going beyond basic CRU
 
 ..................................................................................................
 
-
 ### 📊 Admin Dashboard
 
 **Sortable, searchable, AJAX-powered user table with clear visual state**
@@ -74,7 +73,6 @@ It focuses on **clarity, stability, and correctness** — going beyond basic CRU
 
 ..................................................................................................
 
-
 ### 🚫 404 — Page Not Found and 500 — Something Went Wrong
 
 **Graceful handling of invalid routes with a user-friendly fallback**
@@ -82,7 +80,6 @@ It focuses on **clarity, stability, and correctness** — going beyond basic CRU
 ![Search user](./screenshots/404Error.png)
 
 ..................................................................................................
-
 
 ### 🪩 Toast (Example used- user's home page)
 
